@@ -1,6 +1,6 @@
 # Snippits of code deployed at Tradewinds Church
 
-The repositories contain code used to support/automate some administrative functions.
+These repositories contain code used to support/automate some administrative functions.
 
 These were authored by ted@tradewinds.church with help from Copilot AI.
 
